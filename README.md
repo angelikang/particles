@@ -1,5 +1,5 @@
 # Particles
-Small particle system experiment
+Small particle system experiment.
 
 ## Requirements
 Projects use [Magnum engine](https://magnum.graphics/) please follow getting started guide [here](https://doc.magnum.graphics/magnum/getting-started.html) to install it.
